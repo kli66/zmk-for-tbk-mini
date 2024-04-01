@@ -85,7 +85,7 @@
 &kp PAGE_UP    &kp Q  &kp W  &kp E      &kp R         &kp T         &kp Y  &kp U  &kp I      &kp O    &kp P     &kp HOME
 &kp PAGE_DOWN  &kp A  &kp S  &kp D      &kp F         &kp G         &kp H  &kp J  &kp K      &kp L    &kp SEMI  &kp END
 &sk LSHFT      &kp Z  &kp X  &kp C      &kp V         &kp B         &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp DEL
-                             &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &mo 2  &mo 1  &mo 3
+                             &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &mo 1  &mo 2  &mo 3
             >;
         };
 
